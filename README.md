@@ -1,7 +1,13 @@
 # Deep Q-Network (DQN) with PyTorch Lightning
 
 ## Overview
-This project implements a **Deep Q-Network (DQN)** using **PyTorch Lightning** for training an agent to solve **OpenAI Gym environments**. The implementation follows best practices, including experience replay, target networks, and an epsilon-greedy policy.
+This project implements a **Deep Q-Network (DQN)** using **PyTorch Lightning** for training an agent to solve **OpenAI Gym environments**. The implementation follows best practices, including experience replay, target networks, and an epsilon-greedy policy.  
+![Screenshot 2025-03-10 133309](https://github.com/user-attachments/assets/64b8789b-8a52-4217-8f2f-6364a5803f89)    
+  
+
+https://github.com/user-attachments/assets/d81fb7cc-5b55-4a11-badb-d8fc838823ee
+
+
 
 ## Features
 - Uses **PyTorch Lightning** for structured model training
